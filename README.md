@@ -17,4 +17,4 @@ A simple number guessing game built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-[Click here to play!](https://github.com/FaizanKhan02/Guess-My-Number.git)
+[Click here to play!](https://faizankhan02.github.io/Guess-My-Number/)
